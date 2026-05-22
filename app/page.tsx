@@ -298,7 +298,7 @@ export default function EcosDelOlvidoWebsite() {
               </div>
 
               <div>
-                <h3 className="font-bold text-white">Daniel Enrique Bermejo Polo</h3>
+                <h3 className="font-bold text-white">Daniel Enrique Bermejo Polo, Luis Alfredo López Carrillo</h3>
                 <p>Diseño visual, apoyo en el prototipado, pruebas de usuario y organización del contenido multimedia.</p>
               </div>
             </div>
